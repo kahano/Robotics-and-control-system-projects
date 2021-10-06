@@ -5,7 +5,7 @@ import math
 import random
 import matplotlib.animation as animation
 
-# from sim_plot_train.py import plot
+
 
 
 ############################################
