@@ -12,7 +12,7 @@ from time import time
 
 
 """
-I am going to implement extended kalman filter and feedback linearization control algorithms in the inverted pendulum
+I am going to implement feedback linearization control algorithms in the inverted pendulum
 
 """
 
@@ -99,7 +99,7 @@ def get_numpy_array_from_matrix(x):
     """
     return np.array(x).flatten()
 
-# def EKF_estimator(): # extended kalman filter estimator
+
 
 def state_space(t,j):
     #model state space evaluated parameters in initial condtions
