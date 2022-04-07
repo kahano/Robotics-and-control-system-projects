@@ -1,7 +1,7 @@
 # egneprosjekter
 
 
-Train catching a ball by using PID controller algorithm
+Train catching a box by using PID controller algorithm
 ![Figure_1](https://user-images.githubusercontent.com/48335933/162101129-1f2e3e6b-1de5-493a-8709-6e6cbd9801cf.png)
 
 Inverted pendulum using Model predective control 
